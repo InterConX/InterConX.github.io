@@ -1,4 +1,4 @@
-# InterConX
+# Crypton Technologies
 
 **Hey everyone we are a group of developers from India, making applications for the Internet!**
 
@@ -13,4 +13,4 @@ In case your thinking of contributing here is a list of programming languages th
 * along wuth HTML and CSS!
 
 
-*Copyright @InterConX 2021*
+*Copyright @Crypton Technologies 2021*
